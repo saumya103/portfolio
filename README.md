@@ -11,7 +11,7 @@ Welcome to my cybersecurity lab repository! This space is dedicated to showcasin
 
 #🚀 Featured Projects
 
-#📫 Contact Me
+#🚀 Featured Projects
 
  📧 Email: 2022bcs068@sggs.ac.in
  
