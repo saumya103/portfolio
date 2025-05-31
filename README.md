@@ -9,9 +9,9 @@ Welcome to my cybersecurity lab repository! This space is dedicated to showcasin
 
 .🎯 Capture The Flag (CTF) and Bug Bounty Practice
 
-#🚀 Featured Projects
+# 🚀 Featured Projects
 
-# my contact
+# 📫contact me
 
  📧 Email: 2022bcs068@sggs.ac.in
  
