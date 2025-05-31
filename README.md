@@ -13,6 +13,6 @@ Welcome to my cybersecurity lab repository! This space is dedicated to showcasin
 
 # 📫Contact me
 
- 📧 Email: 2022bcs068@sggs.ac.in
+- 📧 Email: 2022bcs068@sggs.ac.in
  
- 🔗 www.linkedin.com/in/saumya-elchatwar-745047259
+- 🔗 www.linkedin.com/in/saumya-elchatwar-745047259
