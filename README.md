@@ -13,7 +13,7 @@ Welcome to my cybersecurity lab repository! This space is dedicated to showcasin
 
 # 🚀 Featured Projects
   - [Spyware tool](https://github.com/saumya103/Spyware-tool.git)
-  - Recon-tool:https://github.com/saumya103/recon-tool.git
+  - [Recon-tool](https://github.com/saumya103/recon-tool.git)
   
 # 📫Contact me
 
