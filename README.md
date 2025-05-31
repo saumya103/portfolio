@@ -3,11 +3,11 @@ Welcome to my cybersecurity lab repository! This space is dedicated to showcasin
 # 🧰 My Focus Areas
 -  🔓 Penetration Testing   
 
-.🔍 Threat Detection & Malware Analysis
+-🔍 Threat Detection & Malware Analysis
 
-.🛠 Vulnerability Research & Exploit Simulation
+-🛠 Vulnerability Research & Exploit Simulation
 
-.🎯 Capture The Flag (CTF) and Bug Bounty Practice
+-🎯 Capture The Flag (CTF) and Bug Bounty Practice
 
 # 🚀 Featured Projects
 
